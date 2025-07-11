@@ -3,7 +3,7 @@
 A MERN-based ride-hailing application inspired by Uber, allowing users to book rides, track drivers, and manage trips in real-time.
 
 > ⚠️ **Project Status:** Work in Progress  
-> 🛠️ Building this project asynchronously – updates are pushed regularly.
+> 🛠️ Building this project asynchronously – updates are pushed weekly.
 
 ---
 
