@@ -16,7 +16,7 @@ A MERN-based ride-hailing application inspired by Uber, allowing users to book r
 
 ---
 
-## 🔧 Features (Planned)
+## 🔧 Features (Planned till now)
 
 - ✅ User & Driver Signup/Login
 - 🚕 Real-time Ride Request & Matching
